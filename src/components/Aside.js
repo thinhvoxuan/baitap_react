@@ -7,11 +7,11 @@ class Aside extends Component {
                 <div className="side-up">
                         <div className="wall-header">My Friend</div>
                             <div className="img-side">
-                                <img src={require("../../public/images/user.png")} className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
-                                <img src={require("../../public/images/user.png")} className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
-                                <img src={require("../../public/images/user.png")} className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
-                                <img src={require("../../public/images/user.png")} className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
-                                <img src={require("../../public/images/user.png")} className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
+                                <img src="/images/user.png" className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
+                                <img src="/images/user.png" className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
+                                <img src="/images/user.png" className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
+                                <img src="/images/user.png" className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
+                                <img src="/images/user.png" className="img-thumbnail" style={{"width": "80px"}} alt="No images" />
                             </div>
                 </div>
                     <br />
@@ -20,7 +20,7 @@ class Aside extends Component {
                     <div className="wall-header">My Group</div>
                         <div className="row group">
                             <div className="col-sm-3">
-                                <img src="img/group.png" style={{"width": "60px"}} alt="group" />
+                                <img src="/images/group.png" style={{"width": "60px"}} alt="group" />
                             </div>
                             <div className="col-sm-9">
                                 <h4 style={{"color": "blue"}}>Sample Group 1</h4>
@@ -31,7 +31,7 @@ class Aside extends Component {
 
                         <div className="row group">
                             <div className="col-sm-3">
-                                <img src="img/group.png" style={{"width": "60px"}} alt="group" />
+                                <img src="/images/group.png" style={{"width": "60px"}} alt="group" />
                             </div>
                             <div className="col-sm-9">
                                 <h4 style={{"color": "blue"}}>Sample Group 2</h4>
