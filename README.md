@@ -1,4 +1,7 @@
 ## Available Scripts
+First Use 
+
+### `npm install`
 
 In the project directory, you can run:
 
