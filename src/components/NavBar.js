@@ -11,10 +11,10 @@ class NavBar extends Component {
               <a style={{visibility: "hidden"}} className="navbar-brand" href="#">Website</a>
             </div>
             <ul className="nav navbar-nav">
-              <li><NavLink to="/">Home</NavLink></li>
-              <li><NavLink to="/member">Members</NavLink></li>
-              <li><NavLink to="/group">Groups</NavLink></li>
-              <li><NavLink to="photo">Photos</NavLink></li>
+              <li><NavLink activeClassName='active' to="/">Home</NavLink></li>
+              <li><NavLink activeClassName='active' to="/member">Members</NavLink></li>
+              <li><NavLink activeClassName='active' to="/group">Groups</NavLink></li>
+              <li><NavLink activeClassName='active' to="photo">Photos</NavLink></li>
               <li><a to="#">Profile</a></li>
             </ul>
 
