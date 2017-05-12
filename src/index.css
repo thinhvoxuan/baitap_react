@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
 body {
   margin: 0;
   padding: 0;
@@ -11,9 +14,81 @@ body {
 }
 
 .logo {
-    margin-left: 70px;
+    padding-left: 50px;
+
 }
 
 .login {
     padding-top: 30px;
+    
+}
+
+wall {
+    border: 1px solid #d2d2d6;
+}
+.wall-header {
+    padding: 10px;
+    background-color: #240c6d;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.caption {
+    margin-left: 40px;
+}
+
+.btn-group {
+    padding-left: 433px;
+}
+
+.side-up {
+    border: 1px solid #d2d2d6;
+}
+
+.img-side {
+    padding: 30px;
+}
+
+.comment-user {
+    border: 1px solid #d2d2d6;
+    margin-top: 10px;
+}
+
+.comment {
+    border: 1px solid #d2d2d6;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+.comment-submit {
+    margin-bottom: 10px;
+}
+.comment-bottom {
+    border: 1px solid #d2d2d6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 620px;
+    margin-left: 10px;
+}
+
+.group {
+    border-bottom: 1px solid #d2d2d6;
+}
+
+.group-btn {
+    padding-left: 130px;
+}
+
+.p-some-user {
+    margin-left: 10px;
 }
