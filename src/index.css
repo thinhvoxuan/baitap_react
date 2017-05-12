@@ -3,3 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+
+.header {
+    background-color: #240c6d;
+    color: white;
+}
+
+.logo {
+    margin-left: 70px;
+}
+
+.login {
+    padding-top: 30px;
+}
